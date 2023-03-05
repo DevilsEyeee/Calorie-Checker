@@ -1,0 +1,58 @@
+body {
+  background-color: #b8c4c1;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h1 strong {
+  font-weight: 600;
+  color: #44b3c0;
+}
+
+/*https://developer.mozilla.org/en-US/docs/Web/CSS/padding used for padding */
+.inputstyle {
+  padding: 20px !important;
+}
+
+/*https://www.w3schools.com/css//css_important.asp  w3 schools source for !important*/
+.whoop {
+  background-color: #54c884e1;
+  width: 8em;
+  font-size: 30px !important;
+  color: #ffffff;
+}
+
+.caloriescont {
+  background-color: #ffffff;
+  padding: 30px;
+}
+
+.caloriescont ul {
+  padding: 0px;
+}
+
+.caloriescont ul li {
+  list-style: none;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  width: 80%;
+}
+
+.caloriescont h3 {
+  color: #4b8673;
+  font-size: 2em;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.caloriescont h5 {
+  color: #4b8673;
+}
+
+.servingsize {
+  background-color: #201d1d;
+  padding: 10px;
+  color: #ffffff;
+}
