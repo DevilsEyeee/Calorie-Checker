@@ -5,7 +5,7 @@ Our project is a web app using a django webframe which takes a user's queries re
 
 # This is the first finished version so no other versions are available
 
-**Instructions and explanation of website over here: [https://docs.djangoproject.com/en/4.1/topics/http/urls/]**
+**Instructions and explanation of website over here: [https://drive.google.com/file/d/1cm4Nj1d0YDCwR4SjqEZw4Vk5pr1tO7IU/view?usp=share_link]**
 
 
 
